@@ -29,7 +29,7 @@ function Forgotpassword() {
   return (
     <div className='container-fluid  qw'>
     
-    <div className='row pt-5 '>
+    <div className='row pt-5'>
       <div className='col-lg-4 '></div>
       <div className='col-lg-4 mt-4 justify-content-center'>
         <form onSubmit={formik.handleSubmit} autoComplete="off" className='login'>
